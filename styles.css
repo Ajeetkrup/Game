@@ -1,0 +1,28 @@
+#game {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+#box {
+  background-color: red;
+  height: 200px;
+  width: 200px;
+}
+
+#shape {
+  position: relative;
+  top: 50px;
+  left: 50px;
+  background-color: antiquewhite;
+  height: 100px;
+  width: 100px;
+}
+
+#btn1 {
+  margin-top: 10px;
+}
+#btn2 {
+  margin-top: 5px;
+}
